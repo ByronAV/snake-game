@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+  flex-direction: column;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+    color: #444;
+}
